@@ -40,6 +40,6 @@ I have used ANN for this project with 2 hidden layers (each with 6 nodes) and th
 
 ## Artificial Neural Networks
 
-![](https://raw.githubusercontent.com/Mohitkr95/Churn-Classification-Modelling/master/Images/Artificial-neural-network-architecture-ANN-i-h-1-h-2-h-n-o.png)
+![](https://raw.githubusercontent.com/Mohitkr95/Churn-Classification-Modelling/master/Images/1_ZB6H4HuF58VcMOWbdpcRxQ.png)
 
 Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains. Such systems "learn" to perform tasks by considering examples, generally without being programmed with task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as "cat" or "no cat" and using the results to identify cats in other images. They do this without any prior knowledge of cats, for example, that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the examples that they process.
